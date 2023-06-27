@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertacos16
-- 👀 I’m interested in web 3.0
-- 🌱 I’m currently learning Javascript, solidity, react.js
+- 👀 I’m interested in web 3.0 and Databases
+- 🌱 I’m currently learning Python, Javascript, solidity, react.js
 - 💞️ I’m looking to collaborate on Web 3.0 projects
 - 📫 How to reach dm me
 
