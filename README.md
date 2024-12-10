@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertacos16
-- 👀 I’m interested in AI, ML, Cybersecurity, Blockchain, and Data Analystics
+- 👀 I’m interested in AI, ML, Cybersecurity, Blockchain, Business, and Data Analytics
 - 🌱 I’m currently learning Python, Typescrypt, solidity
-- 💞️ I’m looking to collaborate on AI and Web 3.0 projects
+- 💞️ I’m looking to collaborate on AI Data Analytics Opportunities
 - 📫 How to reach dm me: Through resume folder
 - 
 
